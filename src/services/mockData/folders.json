@@ -1,0 +1,72 @@
+[
+  {
+    "id": "folder-001",
+    "name": "Documents",
+    "parentId": null,
+    "createdAt": "2024-01-15T08:00:00.000Z",
+    "fileCount": 15
+  },
+  {
+    "id": "folder-002",
+    "name": "Images",
+    "parentId": null,
+    "createdAt": "2024-01-14T10:30:00.000Z",
+    "fileCount": 8
+  },
+  {
+    "id": "folder-003",
+    "name": "Videos",
+    "parentId": null,
+    "createdAt": "2024-01-13T12:15:00.000Z",
+    "fileCount": 3
+  },
+  {
+    "id": "folder-004",
+    "name": "Archives",
+    "parentId": null,
+    "createdAt": "2024-01-12T14:45:00.000Z",
+    "fileCount": 5
+  },
+  {
+    "id": "folder-005",
+    "name": "Projects",
+    "parentId": "folder-001",
+    "createdAt": "2024-01-11T16:20:00.000Z",
+    "fileCount": 12
+  },
+  {
+    "id": "folder-006",
+    "name": "Reports",
+    "parentId": "folder-001",
+    "createdAt": "2024-01-10T09:10:00.000Z",
+    "fileCount": 7
+  },
+  {
+    "id": "folder-007",
+    "name": "Templates",
+    "parentId": "folder-001",
+    "createdAt": "2024-01-09T11:30:00.000Z",
+    "fileCount": 4
+  },
+  {
+    "id": "folder-008",
+    "name": "Screenshots",
+    "parentId": "folder-002",
+    "createdAt": "2024-01-08T13:45:00.000Z",
+    "fileCount": 20
+  },
+  {
+    "id": "folder-009",
+    "name": "Logos",
+    "parentId": "folder-002",
+    "createdAt": "2024-01-07T15:00:00.000Z",
+    "fileCount": 6
+  },
+  {
+    "id": "folder-010",
+    "name": "Presentations",
+    "parentId": "folder-003",
+    "createdAt": "2024-01-06T17:30:00.000Z",
+    "fileCount": 9
+  }
+]

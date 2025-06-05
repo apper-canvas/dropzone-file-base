@@ -1,0 +1,26 @@
+[
+  {
+    "fileId": "upload-001",
+    "bytesUploaded": 1048576,
+    "totalBytes": 5242880,
+    "percentage": 20,
+    "speed": 524288,
+    "timeRemaining": 8
+  },
+  {
+    "fileId": "upload-002",
+    "bytesUploaded": 1536000,
+    "totalBytes": 2048576,
+    "percentage": 75,
+    "speed": 512000,
+    "timeRemaining": 1
+  },
+  {
+    "fileId": "upload-003",
+    "bytesUploaded": 768000,
+    "totalBytes": 1536000,
+    "percentage": 50,
+    "speed": 384000,
+    "timeRemaining": 2
+  }
+]
